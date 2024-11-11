@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
-  "backgroundColor": "#ffffff",
+  "name": "Helltop Blog",
+  "shortName": "Helltop",
+  "description": "Lucy Ada Randall's blog.",
+  "themeColor": "#b00b69",
+  "backgroundColor": "#f42069",
   "lang": "en"
 }
