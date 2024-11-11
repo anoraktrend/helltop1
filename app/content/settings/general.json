@@ -1,9 +1,9 @@
 {
   "title": "Lucy Brown | Blog",
   "titleTemplate": "| Helltop",
-  "welcomeText": "# H﻿i, Welcome to my page!\n\nH﻿ere are some of my projects!\n\n## [E﻿E](https://github.com/anoraktrend/ee-fbsd)\n\n### Occasionally Active\n\nE﻿E is short for Easy Editor, it's a console based text editor with tui elements. I occasionally maintain an extracted version from FreeBSD.\n\n## [A﻿EE](https://github.com/anoraktrend/aee)\n\n### Occasionally Active\n\nA﻿EE is a superset of EE that has some neat features. I'm occasionally working on an updated build system and documentation for it along with some friends.\n\n## [K﻿inland](kinland.helltop.net)\n\n### Archived\n\nThis was an Unfiction project that I made as a birthday and anniversary gift for my fiancée.\n\n## [Berkeley Artistic license](https://github.com/anoraktrend/Berkeley-Artistic)\n\n### [](https://github.com/anoraktrend/Berkeley-Artistic)N﻿ot Yet OSI Approved, may alter name.\n\nAn open source license I wrote for fun. Currently working on making it a good license.",
-  "logo": "/images/uploads/sketch-1630374377002.png",
-  "icon": "/images/uploads/img_0431.jpg",
+  "welcomeText": "# H﻿i! I'm Lucy! This is my blog!\n\nI﻿ write about my projects and stuff here!",
+  "logo": "/images/uploads/img_0431.png",
+  "icon": "/images/uploads/sketch-1630374377002.png",
   "loadingColor": "#0b3765",
   "seoDescription": "The homepage of Lucy Brown and all her projects.",
   "seoMetaImage": ""
