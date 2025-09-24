@@ -6,6 +6,21 @@
       </nuxt-link>
     </div>
 
+    <template>
+  <div ref="liberapayWidget"></div>
+</template>
+
+<script>
+export default {
+  mounted() {
+    const script = document.createElement('script');
+    script.src = "https://liberapay.com/Anoraktrend/widgets/receiving.js";
+    script.async = true;
+    this.$refs.liberapayWidget.appendChild(script);
+  }
+}
+</script>
+
     <nav class="nav ml-auto">
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
