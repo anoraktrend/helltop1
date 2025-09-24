@@ -39,7 +39,7 @@ export default class Header extends Vue {
   logo = settings.logo;
 }
 </script>
-
+<script lang="js" src="https://liberapay.com/Anoraktrend/widgets/receiving.js"></script>
 <style lang="scss">
 .nav {
   ul li > a {
